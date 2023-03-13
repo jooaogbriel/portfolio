@@ -9,18 +9,14 @@ import {
     redux,
     tailwind,
     nodejs,
-    mongodb,
     git,
     figma,
     docker,
     meta,
     starbucks,
-    tesla,
-    shopify,
     carrent,
     jobit,
     tripguide,
-    threejs,
   } from "../assets";
   
   export const navLinks = [
@@ -71,24 +67,12 @@ import {
       icon: reactjs,
     },
     {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
-    {
       name: "Tailwind CSS",
       icon: tailwind,
     },
     {
       name: "Node JS",
       icon: nodejs,
-    },
-    {
-      name: "MongoDB",
-      icon: mongodb,
-    },
-    {
-      name: "Three JS",
-      icon: threejs,
     },
     {
       name: "git",
@@ -110,51 +94,23 @@ import {
       company_name: "Assej",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "March 2019 - November 2020",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
-      iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Scheduling appointments at the health center.",
+        "Responsible for the documents of various departments of the City Hall.",
       ],
     },
     {
       title: "Full stack Developer",
-      company_name: "Meta",
+      company_name: "Kenzie Academy Brazil - 2,000 hour Full Stack Development course",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "Jan 2022 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Development of web applications using React.js and other related technologies.",
+        "Collaborate with teams of junior developers.",
+        "Implementing responsive design and integration with APIs.",
+        "Participate in dailys and provide constructive feedback to other developers.",
       ],
     },
   ];
@@ -188,67 +144,67 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Netflix Clone",
       description:
-        "Web-based platform that allows users to search, book,  from various providers, providing a convenient and efficient solution for transportation needs.",
+        "The famous Netflix clone, looking to improve my knowledge in ReactJs",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "material-ui",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "responsive CSS",
           color: "pink-text-gradient",
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/jooaogbriel/projeto-netflix",
     },
     {
-      name: "Job IT",
+      name: "Form",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Form made in ReactJs. Using react hook form, Yup, React Router Dom and useHistory",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "yup",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "react-hook-form",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/jooaogbriel/tela-login",
     },
     {
-      name: "Trip Guide",
+      name: "Nlw - Setup",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "A habit control application that uses the most modern technologies on the market.",
       tags: [
         {
-          name: "nextjs",
+          name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "node js",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "typescript",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/jooaogbriel/nlw-Setup",
     },
   ];
   
