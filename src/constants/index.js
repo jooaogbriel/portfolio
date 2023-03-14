@@ -17,6 +17,9 @@ import {
     carrent,
     jobit,
     tripguide,
+    rapha,
+    marcelo,
+    gustavo,
   } from "../assets";
   
   export const navLinks = [
@@ -118,27 +121,27 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+        "I had the opportunity to be João's instructor during the React module at Kenzie, João was very competent and interested, always seeking to deepen his knowledge beyond what the course charged. In addition, he always knew how to communicate very well.",
+      name: "Raphael Gonçalves",
+      designation: "Instructor - Full Dev",
+      company: "Kenzie Academy Brazil",
+      image: rapha,
     },
     {
       testimonial:
         "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+      name: "Gustavo Mota",
+      designation: "Instructor - Full Dev",
+      company: "Kenzie Academy Brazil",
+      image: gustavo,
     },
     {
       testimonial:
         "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+      name: "Marcelo Cabral",
+      designation: "Instructor - Full Dev",
+      company: "Kenzie Academy Brazil",
+      image: marcelo,
     },
   ];
   

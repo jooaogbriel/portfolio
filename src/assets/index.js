@@ -28,6 +28,10 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import rapha from "./rapha.jpeg"
+import marcelo from "./marcelo.jpeg"
+import gustavo from "./gustavo.jpeg"
+
 export {
   logo,
   backend,
@@ -55,4 +59,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  rapha,
+  marcelo,
+  gustavo,
 };
