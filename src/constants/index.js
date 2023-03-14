@@ -129,7 +129,7 @@ import {
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like João does.",
+        "I was João's instructor during the NodeJS module at Kenzie, he was very hard working and dedicated. Making Great CRUDS and Rest APIs.",
       name: "Gustavo Mota",
       designation: "Instructor - Full Dev",
       company: "Kenzie Academy Brazil",
@@ -137,7 +137,7 @@ import {
     },
     {
       testimonial:
-        "After João optimized our website, our traffic increased by 50%. We can't thank them enough!",
+        "Instructs João in Kenzie's module 6, preparing him for the job market. He showed me a strong command of languages and great soft skills, he is more than ready to work in the market as a junior dev!",
       name: "Marcelo Cabral",
       designation: "Instructor - Full Dev",
       company: "Kenzie Academy Brazil",
