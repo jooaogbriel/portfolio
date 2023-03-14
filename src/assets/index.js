@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import log from "./log.png"
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -33,7 +33,7 @@ import marcelo from "./marcelo.jpeg"
 import gustavo from "./gustavo.jpeg"
 
 export {
-  logo,
+  log,
   backend,
   creator,
   mobile,
