@@ -2,7 +2,7 @@
 # Portfolio created in React JS in Web and 3D development course
 <img width="1440" alt="Screenshot 2023-03-20 at 8 53 28 PM" src="https://user-images.githubusercontent.com/99376449/226490006-360d5d19-76fe-4f14-b4d5-f06344de4078.png">
 
-ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
+ThreeJS - a powerful 3D graphics library for rendering andd animating the 3D model
 
 React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
 
